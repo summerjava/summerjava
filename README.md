@@ -3,7 +3,7 @@
 ### 小伙伴你好 👋我是夏天
 
 #### 🔭 I’m currently working on  
-杭州某大型互联网公司，Java技术专家，华中科技大学计算机硕士
+杭州某大型互联网公司，Java技术专家，某985不知名理工大学计算机硕士
 #### 🌱 I’m currently learning  
 分布式/软件架构
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=summerjava&show_icons=true&hide_border=true" />
